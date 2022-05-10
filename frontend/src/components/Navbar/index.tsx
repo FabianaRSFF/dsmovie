@@ -7,9 +7,9 @@ function Navbar() {
             <nav className="container">
                 <div className="dsmovie-nav-content">
                     <h1>DSMovie</h1>
-                    <a href="https://github.com">
+                    <a href="https://github.com/FabianaRSFF">
                         <div className="dsmovie-contact-container">
-                            <GithubIcon/>
+                            <GithubIcon />
                             <p className="dsmovie-contact-link">/devsuperior</p>
                         </div>
                     </a>
